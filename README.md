@@ -2,7 +2,15 @@
 
 Bem-vindo ao **Sistema de Gestão de Cidades e Comércios**! Este projeto tem como objetivo fornecer uma plataforma simples e eficiente para gerenciar cidades e comércios. Aqui, você pode adicionar e editar comércios, associá-los a cidades e obter todas as informações de forma rápida e clara!
 
+![Captura de tela 2025-02-03 171636](https://github.com/user-attachments/assets/5c9c1c6d-aa8c-44f9-ba13-7f899ebf92d2)
+
+
+
+
 ## 🚀 Funcionalidades
+![Captura de tela 2025-02-03 171646](https://github.com/user-attachments/assets/a7ddb8d4-6f9f-4cdb-9fc5-971b1e600072)
+![Captura de tela 2025-02-03 172117](https://github.com/user-attachments/assets/c2453c6e-9243-4a2f-a867-54aee1977fce)
+
 
 - **Cadastro de Cidades**: Gerencie as cidades onde seus comércios estão localizados.
 - **Cadastro de Comércios**: Adicione novos comércios, associando-os a uma cidade e definindo o tipo de comércio.
