@@ -14,9 +14,9 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - **Java 17**: A base sólida que garante alta performance e confiabilidade.
 - **Spring Boot**: Para criação de uma API RESTful robusta e escalável.
-- **PostgreSQL**: Banco de dados relacional para armazenar as informações de cidades e comércios.
+- **H2**: Banco de dados relacional para armazenar as informações de cidades e comércios.
 - **Spring Data JPA*
-
+Rode npm start npm install para rodar o frontend
 -------------------------------------------------------------------------------
 Após subir o backend o banco H2 pode ser acessado no seguinte endereço:
 -------------------------------------------------------------------------------
