@@ -1,0 +1,47 @@
+# -----------------------------------------------------
+# Configuracao da porta e contexto da aplicacao  
+# -----------------------------------------------------  
+server:
+  port: 8080
+  servlet:
+    context-path: /placeti
+
+# --------------------------------------------------------
+# Configuração para desativar CORS
+# --------------------------------------------------------
+spring:
+  web:
+    cors:
+      enabled: false
+
+# --------------------------------------------------------
+# Configuração do banco de dados
+# --------------------------------------------------------
+  sql:
+    init:
+      mode: always
+  datasource:
+    url: jdbc:h2:mem:database
+    driverClassName: org.h2.Driver
+    username: admin
+    password: admin  
+
+# --------------------------------------------------------
+# Configuração do H2
+# --------------------------------------------------------
+  h2:
+    console:
+      enabled: true
+      path: /h2-console  
+
+# --------------------------------------------------------
+# Configuração da JPA
+# --------------------------------------------------------
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.H2Dialect    
+    defer-datasource-initialization: true
+    hibernate:
+      ddl-auto: none
+

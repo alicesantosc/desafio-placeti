@@ -1,0 +1,29 @@
+# Ignorar arquivos de cache do Angular
+.angular/
+
+.angular/cache
+
+# Ignorar diretórios de dependências
+node_modules/
+
+# Ignorar arquivos de compilação do Angular
+dist/
+tmp/
+out-tsc/
+
+# Ignorar arquivos do editor de texto (exemplo: Visual Studio Code)
+.vscode/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários criados pelo sistema operacional
+*.swp
+*.bak
+*.tmp
+
+# Ignorar arquivos de ambiente local (por exemplo, .env)
+.env
+
+# Ignorar arquivos de configuração de IDE
+.idea/
