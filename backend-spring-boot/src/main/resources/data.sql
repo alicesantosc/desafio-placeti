@@ -52,3 +52,8 @@ VALUES
 INSERT INTO Comercio (nome, nome_responsavel, tipo_comercio, cidade_id)
 VALUES
     ('Padaria Pão Delícia', 'Carlos Eduardo', 'PADARIA', 8);
+<<<<<<< HEAD
+=======
+
+   
+>>>>>>> 14fdd129773f3c7f286952eddae0227d5bf347b6
