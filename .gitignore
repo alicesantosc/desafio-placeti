@@ -1,7 +1,3 @@
-# Ignorar arquivos de cache do Angular
-.angular/
-
-.angular/cache
 
 # Ignorar diretórios de dependências
 node_modules/
